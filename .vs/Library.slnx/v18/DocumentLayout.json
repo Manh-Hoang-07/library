@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VHV\\source\\repos\\Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3936A86-570C-480D-8DD2-A5493782267B}|Library\\Library.csproj|c:\\users\\vhv\\source\\repos\\library\\library\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3936A86-570C-480D-8DD2-A5493782267B}|Library\\Library.csproj|solutionrelative:library\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3936A86-570C-480D-8DD2-A5493782267B}|Library\\Library.csproj|c:\\users\\vhv\\source\\repos\\library\\library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3936A86-570C-480D-8DD2-A5493782267B}|Library\\Library.csproj|solutionrelative:library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3936A86-570C-480D-8DD2-A5493782267B}|Library\\Library.csproj|c:\\users\\vhv\\source\\repos\\library\\library\\bookform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3936A86-570C-480D-8DD2-A5493782267B}|Library\\Library.csproj|solutionrelative:library\\bookform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3936A86-570C-480D-8DD2-A5493782267B}|Library\\Library.csproj|c:\\users\\vhv\\source\\repos\\library\\library\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3936A86-570C-480D-8DD2-A5493782267B}|Library\\Library.csproj|solutionrelative:library\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3936A86-570C-480D-8DD2-A5493782267B}|Library\\Library.csproj|C:\\Users\\VHV\\source\\repos\\Library\\library\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3936A86-570C-480D-8DD2-A5493782267B}|Library\\Library.csproj|solutionrelative:library\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VHV\\source\\repos\\Library\\Library\\Program.cs",
+              "RelativeDocumentMoniker": "Library\\Program.cs",
+              "ToolTip": "C:\\Users\\VHV\\source\\repos\\Library\\Library\\Program.cs",
+              "RelativeToolTip": "Library\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T09:29:21.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\VHV\\source\\repos\\Library\\Library\\BookForm.Designer.cs",
+              "RelativeDocumentMoniker": "Library\\BookForm.Designer.cs",
+              "ToolTip": "C:\\Users\\VHV\\source\\repos\\Library\\Library\\BookForm.Designer.cs",
+              "RelativeToolTip": "Library\\BookForm.Designer.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAAALwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T09:29:16.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookForm.cs",
+              "DocumentMoniker": "C:\\Users\\VHV\\source\\repos\\Library\\Library\\BookForm.cs",
+              "RelativeDocumentMoniker": "Library\\BookForm.cs",
+              "ToolTip": "C:\\Users\\VHV\\source\\repos\\Library\\Library\\BookForm.cs",
+              "RelativeToolTip": "Library\\BookForm.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T09:28:49.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbHelper.cs",
+              "DocumentMoniker": "C:\\Users\\VHV\\source\\repos\\Library\\Library\\DbHelper.cs",
+              "RelativeDocumentMoniker": "Library\\DbHelper.cs",
+              "ToolTip": "C:\\Users\\VHV\\source\\repos\\Library\\Library\\DbHelper.cs",
+              "RelativeToolTip": "Library\\DbHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T09:28:26.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VHV\\source\\repos\\Library\\Library\\Form1.cs",
+              "RelativeDocumentMoniker": "Library\\Form1.cs",
+              "ToolTip": "C:\\Users\\VHV\\source\\repos\\Library\\Library\\Form1.cs [Design]",
+              "RelativeToolTip": "Library\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T09:00:35.329Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
