@@ -21,3 +21,4 @@ C:\Users\VHV\source\repos\Library\Library\obj\Debug\net472\Library.csproj.CoreCo
 C:\Users\VHV\source\repos\Library\Library\obj\Debug\net472\Library.csproj.Up2Date
 C:\Users\VHV\source\repos\Library\Library\obj\Debug\net472\Library.exe
 C:\Users\VHV\source\repos\Library\Library\obj\Debug\net472\Library.pdb
+C:\Users\VHV\source\repos\Library\Library\obj\Debug\net472\Library.sourcelink.json

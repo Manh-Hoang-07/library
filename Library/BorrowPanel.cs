@@ -260,12 +260,12 @@ namespace Library
 
             // Try to match User combobox
             string userName = row.Cells["UserName"].Value?.ToString() ?? "";
-            foreach (DataRowView drv in (DataTable)cmbUser.DataSource)
+            foreach (DataRowView drv in ((DataTable)cmbUser.DataSource).DefaultView)
                 if (drv["Name"].ToString() == userName) { cmbUser.SelectedItem = drv; break; }
 
             // Try to match Book combobox
             string bookName = row.Cells["BookName"].Value?.ToString() ?? "";
-            foreach (DataRowView drv in (DataTable)cmbBook.DataSource)
+            foreach (DataRowView drv in ((DataTable)cmbBook.DataSource).DefaultView)
                 if (drv["Name"].ToString() == bookName) { cmbBook.SelectedItem = drv; break; }
 
             // Quantity

@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = Library
-build_property.ProjectDir = C:\Users\VHV\source\repos\Library\Library\
+build_property.ProjectDir = c:\Users\VHV\source\repos\Library\Library\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

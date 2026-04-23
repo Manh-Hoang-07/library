@@ -97,9 +97,9 @@ namespace Library
                 TextAlign = ContentAlignment.MiddleCenter
             };
 
-            sidebar.Controls.Add(header);
-            sidebar.Controls.Add(flow);
-            sidebar.Controls.Add(ver);
+            sidebar.Controls.Add(flow);   // index 0 → Fill (processed last)
+            sidebar.Controls.Add(ver);    // index 1 → Bottom (processed second)
+            sidebar.Controls.Add(header); // index 2 → Top (processed first)
         }
 
         Button MakeNavBtn(string text)
